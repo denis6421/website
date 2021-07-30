@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Express </title>
+    <defs>
+        <path d="M70,35 C70,54.3299805 54.3299805,70 35,70 C17.1657227,70 2.44712891,56.6614453 0.277128906,39.4157422 C0.0943359375,37.9699414 0,36.4957031 0,35 C0,32.2600195 0.314316406,29.5929102 0.91,27.0342187 C4.51568359,11.5428906 18.41,0 35,0 C51.5485742,0 65.4156836,11.4857422 69.0614258,26.9200586 C69.5399414,28.9385742 69.8414062,31.0243555 69.9514648,33.1600391 C69.9842773,33.7699414 70,34.3828516 70,35 Z" id="path-1"></path>
+    </defs>
+    <g id="וואב" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Express-">
+            <g id="Express-Copy">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D76554" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <text id="Ex" mask="url(#mask-2)" font-family="Assistant-ExtraLight, Assistant" font-size="75" font-weight="300" line-spacing="75" fill="#FFFFFF">
+                    <tspan x="10" y="65">ex</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

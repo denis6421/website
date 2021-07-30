@@ -1,0 +1,40 @@
+export const text = {
+  NAME: "DENIS NIKITIN",
+  ABOUT_ME1: "Hello! i'm Denis, a",
+  ABOUT_ME2: "Full-Stack Developer",
+  ABOUT_ME3:
+    "leaning towards Front-End. I love to learn, I have an open mindset and the willingness to try new things. I’m a communicative person, that knows how to collaborate and be part of a team. Feel free to take a look at my latest projects on this web portfolio page.",
+  SKILLS: "Skills",
+  PROJECTS: "Projects",
+  VIEW_PROJECT: "VIEW PROJECT",
+  FOOTER_H3: "Get in touch",
+  FOOTER_P1: "Want to get in touch or talk about a job opportunity?",
+  FOOTER_P2: "Feel free to contact me via email at ",
+  FOOTER_P3: "Or send me a message using the form on the ",
+  FOOTER_LINK: "contact page",
+  CONTACT_ME: "CONTACT ME",
+  GO_BACK: "GO BACK",
+  VISIT: "VISIT WEBSITE",
+  ABOUT_PROJECT: "About this project",
+  ABOUT_P:
+    "This project is a system for managing small business employees. The purpose of this system is to give the manager the opportunity to create employees, tasks, and associate between them. Employees can log into their accounts, and only see the tasks associated to them, they can mark which ones they are working on, allowing the manager to track employee progress for each task.",
+  TECHNICAL_SHEET: "Technical Sheet",
+  TECHNICAL_SHEET_P:
+    "Code technologies and skills I got involved with while working on this project.",
+  GO_BACK: "GO BACK",
+  GET_IN_TOUCH: "GET IN TOUCH",
+  CONTACT_P:
+    "If you want to get in touch, talk to me about a job opportunity, or just ask for some more info about me, please fill out this form, or contact me via email at ",
+  ENTER_NAME: "Please enter name",
+  ENTER_EMAIL: "Please enter email",
+  ENTER_MESSAGE: "Please enter message",
+  SUBMIT: "SUBMIT MESSAGE",
+  NEXT: "NEXT",
+  REQUIRED: "Required field",
+  EMAIL_VALIDATION:'Invalid email',
+  GOT_IT:'GOT IT',
+THANK_YOU:'Thanks',
+HOMEPAGE:'HOMEPAGE',
+SUCCESS_MSG:'your message has been successfully received',
+VISIT_WEBSITE:'VISIT WEBSITE'
+};
